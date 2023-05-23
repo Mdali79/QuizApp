@@ -27,3 +27,4 @@ npm run dev
 ```sh
 npm run build
 ```
+ It is a simple static app that gives some quiz questions on subject-based and will give no of correct and wrong answers after answering. (website)
